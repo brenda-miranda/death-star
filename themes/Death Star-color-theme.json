@@ -129,7 +129,7 @@
 		  "name": "HTML or XML tag brackets",
 		  "scope": ["punctuation.definition.tag"],
 		  "settings": {
-			 "foreground": "#fff"
+			 "foreground": "#ffffffa8"
 		  }
 		},
 		{
