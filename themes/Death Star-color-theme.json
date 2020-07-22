@@ -20,6 +20,7 @@
 		"statusBar.background": "#131314",
 		"statusBar.foreground": "#e9006d",
 		"statusBar.debuggingBackground": "#b34af8",
+		"statusBar.debuggingForeground": "#06060C",
 	},
 	"tokenColors": [
 		{
