@@ -100,7 +100,8 @@
 		  "name": "Language constant (boolean, null)",
 		  "scope": "constant.language",
 		  "settings": {
-			 "foreground": "#47d6b7bb"
+			 "foreground": "#f800e3f3",
+			 "fontStyle": "italic"
 		  }
 		},
 		{
