@@ -2,7 +2,7 @@
 	"name": "Death Star",
 	"type": "dark",
 	"colors": {
-		"editor.background": "#263238",
+		"editor.background": "#131314",
 		"editor.foreground": "#eeffff",
 		"activityBarBadge.background": "#007acc",
 		"sideBarTitle.foreground": "#bbbbbb"
