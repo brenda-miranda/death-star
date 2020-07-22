@@ -122,7 +122,7 @@
 		  "name": "HTML or XML tag",
 		  "scope": "entity.name.tag",
 		  "settings": {
-			 "foreground": "#ff0081" 
+			 "foreground": "#00a2ff" 
 		  }
 		},
 		{
