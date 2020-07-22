@@ -19,6 +19,7 @@
 		"editorLineNumber.foreground": "#e9006d77",
 		"statusBar.background": "#131314",
 		"statusBar.foreground": "#e9006d",
+		"statusBar.debuggingBackground": "#b34af8",
 	},
 	"tokenColors": [
 		{
