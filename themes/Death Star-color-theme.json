@@ -248,7 +248,7 @@
 		  "name": "CSS property",
 		  "scope": "support.type.property-name.css",
 		  "settings": {
-			 "foreground": "#7cc6e6" 
+			 "foreground": "#f370ff" 
 		  }
 		},
 		{
