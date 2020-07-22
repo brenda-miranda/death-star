@@ -178,7 +178,7 @@
 		  "name": "Operator",
 		  "scope": "keyword.operator",
 		  "settings": {
-			 "foreground": "#30c78e"
+			 "foreground": "#81aaf8"
 		  }
 		},
 		{
