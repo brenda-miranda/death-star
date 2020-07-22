@@ -72,7 +72,7 @@
 		  "name": "Storage (declaration or modifier keyword)",
 		  "scope": ["storage.type", "storage.modifier"],
 		  "settings": {
-			 "foreground": "#b6dff1ff"
+			 "foreground": "#2ef8cc"
 		  }
 		},
 		{
