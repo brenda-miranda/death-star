@@ -36,7 +36,7 @@
 		  "name": "Comment",
 		  "scope": "comment",
 		  "settings": {
-			 "foreground": "#7c3f5f",
+			 "foreground": "#696969",
 			 "fontStyle": "italic"
 		  }
 		},
