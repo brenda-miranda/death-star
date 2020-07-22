@@ -17,6 +17,8 @@
 		"tab.activeBackground": "#292929ee",
 		"tab.inactiveBackground": "#202021",
 		"editorLineNumber.foreground": "#e9006d77",
+		"statusBar.background": "#131314",
+		"statusBar.foreground": "#e9006d",
 	},
 	"tokenColors": [
 		{
