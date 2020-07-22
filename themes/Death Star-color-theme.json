@@ -12,6 +12,7 @@
 		"sideBarSectionHeader.background": "#131414",
 		"sideBarSectionHeader.foreground": "#cecdcddd",
 		"editorGroup.border": "#1A1A1B",
+		"editorGroupHeader.tabsBackground": "#1e1e1f",
 	},
 	"tokenColors": [
 		{
