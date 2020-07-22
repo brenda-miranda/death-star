@@ -114,6 +114,14 @@
 				"foreground": "#ae70e7"
 			}
 		},
+
+		{
+			"name": "Tag atttribute",
+			"scope": "entity.other.attribute-name",
+			"settings": {
+			  "foreground": "#56fd47" 
+			}
+		 },
 		{
 			"name": "Function, Special Method",
 			"scope": [
