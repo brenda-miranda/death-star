@@ -157,7 +157,7 @@
 		  "name": "Function",
 		  "scope": ["entity.name.function", "variable.function"],
 		  "settings": {
-			 "foreground": "#02ff56"
+			 "foreground": "#f763a8"
 		  }
 		},
 		{
@@ -178,7 +178,7 @@
 		  "name": "Operator",
 		  "scope": "keyword.operator",
 		  "settings": {
-			 "foreground": "#81aaf8"
+			 "foreground": "#f8ec81"
 		  }
 		},
 		{
@@ -199,7 +199,7 @@
 		  "name": "Support",
 		  "scope": "support",
 		  "settings": {
-			 "foreground": "#23da8e" 
+			 "foreground": "#ecf015" 
 		  }
 		},
 		{
