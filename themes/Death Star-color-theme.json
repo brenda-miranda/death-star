@@ -9,6 +9,7 @@
 		"sideBarTitle.foreground": "#969696",
 		"sideBar.background": "#131314",
 		"sideBar.foreground": "#ababab99",
+		"sideBarSectionHeader.background": "#131414",
 	},
 	"tokenColors": [
 		{
