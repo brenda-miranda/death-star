@@ -15,6 +15,7 @@
 		"editorGroupHeader.tabsBackground": "#1e1e1f",
 		"tab.activeBorder": "#e9006d",
 		"tab.activeBackground": "#292929ee",
+		"tab.inactiveBackground": "#202021",
 	},
 	"tokenColors": [
 		{
