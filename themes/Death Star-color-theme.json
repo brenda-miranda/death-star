@@ -79,14 +79,14 @@
 		  "name": "Constant",
 		  "scope": "constant",
 		  "settings": {
-			 "foreground": "#47d6b7bb"
+			 "foreground": "#2ef8cc"
 		  }
 		},
 		{
 		  "name": "Regex",
 		  "scope": "string.regexp",
 		  "settings": {
-			 "foreground": "#47d6b7bb"
+			 "foreground": "#2ef8cc"
 		  }
 		},
 		{
