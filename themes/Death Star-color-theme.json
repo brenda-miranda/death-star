@@ -157,7 +157,7 @@
 		  "name": "Function",
 		  "scope": ["entity.name.function", "variable.function"],
 		  "settings": {
-			 "foreground": "#1b81b1E6"
+			 "foreground": "#02ff56"
 		  }
 		},
 		{
