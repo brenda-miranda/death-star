@@ -4,6 +4,7 @@
 	"colors": {
 		"editor.background": "#131314",
 		"editor.foreground": "#f4fafa",
+		"activityBar.background": "#151516",
 		"activityBarBadge.background": "#e9006d",
 		"activityBarBadge.foreground": "#161617",
 		"sideBarTitle.foreground": "#969696",
