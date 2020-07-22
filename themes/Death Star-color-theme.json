@@ -136,7 +136,7 @@
 		  "name": "Tag atttribute",
 		  "scope": "entity.other.attribute-name",
 		  "settings": {
-			 "foreground": "#56fd47" 
+			 "foreground": "#f8a5cf" 
 		  }
 		},
 		{
