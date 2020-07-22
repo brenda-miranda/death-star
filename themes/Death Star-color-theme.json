@@ -23,6 +23,8 @@
 		"statusBar.debuggingForeground": "#06060C",
 		"statusBarItem.hoverBackground": "#2E2E2E",
 		"titleBar.activeBackground": "#151516",
+		"dropdown.background": "#252526",
+		"dropdown.listBackground": "#2E2E2E",
 	},
 	"tokenColors": [
 		{
