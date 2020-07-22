@@ -171,7 +171,7 @@
 		  "name": "Control keyword (if, try, while, etc.)",
 		  "scope": "keyword.control",
 		  "settings": {
-			 "foreground": "#e9006dFF"
+			 "foreground": "#41f3ccd8"
 		  }
 		},
 		{
